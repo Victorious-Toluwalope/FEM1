@@ -27,7 +27,7 @@ Users should be able to:
 
 - Solution URL: (https://github.com/Victorious-Toluwalope/FEM1.git)
 - Live Site URL: (https://victorious-toluwalope.github.io/FEM1/)
-- Netlify URL: (https://62c4ecefde45b10008b4cb68--genuine-tulumba-3f6bec.netlify.app/)
+- Netlify URL: (https://fantastic-lebkuchen-7bccaf.netlify.app/)
 
 ### Built with
 
